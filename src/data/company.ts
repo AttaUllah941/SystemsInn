@@ -20,14 +20,14 @@ import {
 import type { NavLink, ProcessStep, Project, Reason, Service } from "@/types";
 
 export const company = {
-  name: "System Inn",
+  name: "SystemInn",
   tagline: "Build · Innovate · Grow",
-  footerLine: "System Inn — Build. Innovate. Grow.",
+  footerLine: "SystemInn — Build. Innovate. Grow.",
   positioning: "Your Trusted Partner in Software & Technology.",
   description:
-    "System Inn is a software development and technology company building innovative digital solutions, SaaS products and technology consulting for growing businesses.",
+    "SystemInn is a software development and technology company building innovative digital solutions, SaaS products and technology consulting for growing businesses.",
   email: "Systeminn.info@gmail.com",
-  phoneDisplay: "0313-4832030",
+  phoneDisplay: "+923134832030",
   phoneHref: "tel:+923134832030",
   linkedin: "https://www.linkedin.com/company/system-inn-082/",
   address: {

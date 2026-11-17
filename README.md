@@ -1,4 +1,4 @@
-# System Inn — Corporate Website
+# SystemInn — Corporate Website
 
 Next.js (App Router) · TypeScript (strict) · Tailwind CSS v4 · Motion · Lucide React
 

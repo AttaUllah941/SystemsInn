@@ -146,7 +146,7 @@ export function Hero() {
                   <span className="h-2.5 w-2.5 rounded-full bg-[#febc2e]" />
                   <span className="h-2.5 w-2.5 rounded-full bg-[#28c840]" />
                   <span className="ml-3 flex items-center gap-1.5 text-xs text-brand-mist">
-                    <Code2 className="h-3.5 w-3.5" /> system-inn.tsx
+                    <Code2 className="h-3.5 w-3.5" /> SystemInn.tsx
                   </span>
                 </div>
                 <pre className="overflow-hidden p-4 font-mono text-[11px] leading-6 text-brand-mist sm:p-5 sm:text-[13px]">

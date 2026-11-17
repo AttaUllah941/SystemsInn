@@ -31,7 +31,7 @@ const cards = [
   {
     icon: LinkedinIcon,
     label: "LinkedIn",
-    value: "System Inn on LinkedIn",
+    value: "SystemInn on LinkedIn",
     href: company.linkedin,
     external: true,
   },

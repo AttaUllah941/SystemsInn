@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { cn } from "@/lib/utils";
 
-/** Official System Inn badge (public/logo/system-inn-logo.jpg) with a live wordmark beside it. */
+/** Official SystemInn badge (public/logo/system-inn-logo.jpg) with a live wordmark beside it. */
 export function Logo({
   className,
   priority,
@@ -15,7 +15,7 @@ export function Logo({
     <span className={cn("inline-flex items-center gap-3", className)}>
       <Image
         src="/logo/system-inn-logo.jpg"
-        alt="System Inn logo"
+        alt="SystemInn logo"
         width={96}
         height={96}
         priority={priority}
@@ -25,7 +25,7 @@ export function Logo({
         )}
       />
       <span className="font-display text-xl font-extrabold leading-none tracking-tight text-white">
-        System <span className="text-brand-cyan">Inn</span>
+        System<span className="text-brand-cyan">Inn</span>
       </span>
     </span>
   );

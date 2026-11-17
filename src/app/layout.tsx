@@ -16,17 +16,17 @@ const manrope = Manrope({
   display: "swap",
 });
 
-const title = "System Inn | Software Development & Technology Partner";
+const title = "SystemInn | Software Development & Technology Partner";
 const description =
-  "System Inn is your trusted partner in software and technology: custom software development, SaaS solutions, IT services and technology consulting. Build · Innovate · Grow.";
+  "SystemInn is your trusted partner in software and technology: custom software development, SaaS solutions, IT services and technology consulting. Build · Innovate · Grow.";
 
 export const metadata: Metadata = {
   metadataBase: new URL(company.siteUrl || "http://localhost:3000"),
-  title: { default: title, template: "%s | System Inn" },
+  title: { default: title, template: "%s | SystemInn" },
   description,
   applicationName: company.name,
   keywords: [
-    "System Inn",
+    "SystemInn",
     "software development company",
     "SaaS development",
     "custom software",

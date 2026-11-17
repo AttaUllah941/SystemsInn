@@ -20,12 +20,12 @@ export function About() {
           <SectionHeading
             id="about-heading"
             align="left"
-            eyebrow="About System Inn"
+            eyebrow="About SystemInn"
             title="Technology That Empowers Your Business."
           />
           <FadeIn delay={0.1} className="mt-6 space-y-5 text-base leading-relaxed text-brand-mist sm:text-lg">
             <p>
-              System Inn is a software development and technology company focused on building
+              SystemInn is a software development and technology company focused on building
               innovative digital solutions. We combine modern engineering with a clear
               understanding of business goals, so the software we deliver does real work for the
               people who rely on it.

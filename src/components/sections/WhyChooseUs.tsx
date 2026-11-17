@@ -13,7 +13,7 @@ export function WhyChooseUs() {
         <SectionHeading
           id="why-heading"
           eyebrow="Why Choose Us"
-          title="Why Businesses Choose System Inn"
+          title="Why Businesses Choose SystemInn"
           description="The principles that guide how we work with every client and every project."
         />
         <RevealGroup className="mt-16 grid gap-6 sm:grid-cols-2 lg:grid-cols-3">

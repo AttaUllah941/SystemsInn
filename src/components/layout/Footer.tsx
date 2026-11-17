@@ -18,7 +18,7 @@ export function Footer() {
       <div className="mx-auto max-w-7xl px-5 py-16 sm:px-8">
         <div className="grid gap-12 sm:grid-cols-2 lg:grid-cols-[1.5fr_1fr_1.3fr_1.3fr]">
           <div>
-            <Link href="#home" aria-label="System Inn — back to top">
+            <Link href="#home" aria-label="SystemInn — back to top">
               <Logo size="lg" />
             </Link>
             <p className="mt-5 max-w-sm text-sm leading-relaxed text-brand-mist">
@@ -28,7 +28,7 @@ export function Footer() {
               href={company.linkedin}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="System Inn on LinkedIn (opens in a new tab)"
+              aria-label="SystemInn on LinkedIn (opens in a new tab)"
               className="mt-6 inline-flex h-11 w-11 items-center justify-center rounded-full border border-white/15 text-white transition-all hover:-translate-y-0.5 hover:border-brand-cyan hover:text-brand-cyan"
             >
               <LinkedinIcon className="h-5 w-5" />

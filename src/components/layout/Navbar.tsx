@@ -63,7 +63,7 @@ export function Navbar() {
         aria-label="Primary"
         className="mx-auto flex h-[4.5rem] max-w-7xl items-center justify-between px-5 sm:px-8"
       >
-        <Link href="#home" aria-label="System Inn — home" className="shrink-0">
+        <Link href="#home" aria-label="SystemInn — home" className="shrink-0">
           <Logo priority />
         </Link>
 
